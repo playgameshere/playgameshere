@@ -28,12 +28,12 @@ CDJIEF Games
  # 🔗 🦜 extra Links
  ----------------
  
-# 1. 🎈 Youtube PRO NO 🛑 ADS!
+# 1. 🎈 Youtube PRO Lite (NO 🛑 ADS!)
 https://il.ax
 -
 .
 .
-# 2. 🧰 youtube player + 📥 downloade NO 🛑 ADS!
+# 2. 🧰 youtube player Lite + 📥 video downloader (NO 🛑 ADS!)
 https://y.com.sb
 -
 .
