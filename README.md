@@ -48,3 +48,8 @@ https://ssemble.com/youtube-downloader/
 -
 .
 .
+# 5.💬 CDJIEF Chat server 🔒✅
+https://cdjief.4sql.net/cs/index.php
+-
+.
+.
