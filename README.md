@@ -54,3 +54,8 @@ https://cdjief.4sql.net/cs/index.php
 -
 .
 .
+# 6. Emojis unicode
+https://cdjief.php1h.com/viewtopic.php?f=300&t=4811
+-
+.
+.
