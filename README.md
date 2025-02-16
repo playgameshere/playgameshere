@@ -29,32 +29,17 @@ CDJIEF Games
  #  <h1> ██▓▒­░⡷⠂🔗 🦜 extra Links ⚙️ 🔨 ⠐⢾░▒­▓██ </h1>
  ----------------
  
-# 1. 🎈 Youtube PRO Lite (NO 🛑 ADS!)
-https://il.ax
+# 1. 🎈 Youtube tools
+https://cdjief.webnode.com/ytferramentas
 -
 .
 .
-# 2. 🧰 youtube player Lite + 📥 video downloader (NO 🛑 ADS!)
-https://y.com.sb
--
-.
-.
-# 3.✏️fancy text generator pro
+# 2.✏️fancy text generator pro
 https://cdjief.github.io/apps/textogerador
 -
 .
 .
-# 4.📥 Youtube downloader ( 🎬 video , 🎧 audio mp3)
-https://ssemble.com/youtube-downloader/
--
-.
-.
-# 5.💬 CDJIEF Chat server 🔒✅
-https://cdjief.4sql.net/cs/index.php
--
-.
-.
-# 6. Emojis unicode
+# 3. Emojis unicode
 https://cdjief.php1h.com/viewtopic.php?f=300&t=4811
 -
 .
