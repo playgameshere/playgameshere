@@ -13,11 +13,11 @@ CDJIEF Games
 
 
 
-🇺🇸  (click at link above to play free cool online games through CDJIEF site) 
+🇺🇸  (click at link above to play free cool online games) 
 -
-🇵🇹  (clique no link acima para jogar jogos online grátis e divertidos através do site CDJIEF) 
+🇵🇹  (clique no link acima para jogar jogos online grátis) 
 -
-🇪🇸  (haga clic en nel enlance arriba para jugar juegos online grátis y divertidos través del website CDJIEF)
+🇪🇸  (haga clic en nel enlance arriba para jugar juegos online grátis)
 -
 
 
