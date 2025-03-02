@@ -42,11 +42,13 @@
 -
 -
 # 2.✏️fancy text generator pro
-https://cdjief.github.io/apps/textogerador
+
+<a href="https://cdjief.github.io/apps/textogerador">![image_proxy](https://icons.iconarchive.com/icons/emoopo/darktheme-folder/128/Folder-Text-Fonts-icon.png)</a>
 -
 -
 # 3. Emojis unicode
-https://cdjief.php1h.com/viewtopic.php?f=300&t=4811
+
+<a href="https://cdjief.php1h.com/viewtopic.php?f=300&t=4811">![image_proxy](https://icons.iconarchive.com/icons/designbolts/religious-symbol/128/Raelian-symbol-icon.png)</a>
 -
 -
 
