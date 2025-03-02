@@ -1,6 +1,6 @@
-# 🎮 CDJIEF Online Games + 🔨 EXTRA LINKS ⚙️ 
+# 🎮 CDJIEF Games + custom server 🔨 EXTRA LINKS ⚙️ 
 
-![image_proxy](https://i.postimg.cc/ZnRG5dP3/CDJIEFGAMES1.png)
+![image_proxy]([https://i.postimg.cc/ZnRG5dP3/CDJIEFGAMES1.png](https://i.postimg.cc/1XRFz5d1/cdjieftown.png))
 
 
 CDJIEF Games 
@@ -13,11 +13,11 @@ CDJIEF Games
 
 
 
-🇺🇸  (click at link above to play free cool online games) 
+🇺🇸  (click at link above to play online games + our custom server) 
 -
-🇵🇹  (clique no link acima para jogar jogos online grátis) 
+🇵🇹  (clique no link acima para jogar jogos online + o nosso server) 
 -
-🇪🇸  (haga clic en nel enlance arriba para jugar juegos online grátis)
+🇪🇸  (haga clic en nel enlance arriba para jugar juegos online + nuestro server)
 -
 
 
