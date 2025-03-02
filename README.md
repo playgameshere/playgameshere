@@ -32,13 +32,13 @@
 -
 -
 # 0. 🔍 startpage (unlock sites)
-https://startpage.com
-<a href="http://cdjief.ooguy.com:8090/">![image_proxy](https://www.startpage.com/sp/cdn/favicons/mobile/apple-icon-120x120.png)</a>
+
+<a href="https://startpage.com">![image_proxy](https://icons.iconarchive.com/icons/aha-soft/free-global-security/128/Global-Network-icon.png)</a>
 -
 -
 # 1. 🎈 Youtube tools
-https://cdjief.webnode.com/ytferramentas
-<a href="http://cdjief.ooguy.com:8090/">![image_proxy](https://icons.iconarchive.com/icons/guillendesign/variations-3/128/Youtube-icon.png)</a>
+
+<a href="https://cdjief.webnode.com/ytferramentas">![image_proxy](https://icons.iconarchive.com/icons/guillendesign/variations-3/128/Youtube-icon.png)</a>
 -
 -
 # 2.✏️fancy text generator pro
