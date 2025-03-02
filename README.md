@@ -43,10 +43,12 @@ https://cdjief.webnode.com/ytferramentas
 # 2.✏️fancy text generator pro
 https://cdjief.github.io/apps/textogerador
 -
+-
 .
 .
 # 3. Emojis unicode
 https://cdjief.php1h.com/viewtopic.php?f=300&t=4811
+-
 -
 .
 .
