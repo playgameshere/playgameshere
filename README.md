@@ -29,29 +29,22 @@
  .
  #  <h1>🔗 🦜 extra Links ⚙️ 🔨</h1>
  ----------------
- 
+-
+-
 # 0. 🔍 startpage (unlock sites)
 https://startpage.com
 -
 -
-.
-.
 # 1. 🎈 Youtube tools
 https://cdjief.webnode.com/ytferramentas
 -
 -
-.
-.
 # 2.✏️fancy text generator pro
 https://cdjief.github.io/apps/textogerador
 -
 -
-.
-.
 # 3. Emojis unicode
 https://cdjief.php1h.com/viewtopic.php?f=300&t=4811
 -
 -
-.
-.
 
