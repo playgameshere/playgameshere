@@ -1,4 +1,4 @@
-# 🎮 CDJIEF Games + custom server 
+# 🎮 CDJIEF Games + 🍎 custom server 
 
 ![image_proxy](https://i.postimg.cc/1XRFz5d1/cdjieftown.png)
 
