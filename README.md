@@ -7,7 +7,7 @@ CDJIEF Games
 --------------
 
 <body>
- <h1>🔗 https://is.gd/0town</h1><a href="https://linkdosite" rel="nofollow" target="_blank">Link do site !</a>
+ <h1><a href="https://0123jogos.webnode.com" rel="nofollow" target="_blank">🔗 https://is.gd/0town</a></h1>
  </body>
 
 
