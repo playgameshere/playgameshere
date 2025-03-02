@@ -1,4 +1,4 @@
-# 🎮 CDJIEF Games + custom server 🔨 EXTRA LINKS ⚙️ 
+# 🎮 CDJIEF Games + custom server 
 
 ![image_proxy](https://i.postimg.cc/1XRFz5d1/cdjieftown.png)
 
@@ -7,7 +7,7 @@ CDJIEF Games
 --------------
 
 <body>
- <h1>  ██▓▒­░⡷⠂🔗 https://bit.ly/-game5 ⠐⢾░▒­▓██ </h1>
+ <h1>🔗 https://is.gd/0town</h1>
  </body>
 
 
