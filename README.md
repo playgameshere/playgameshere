@@ -27,10 +27,8 @@
  .
  .
  .
- #  <h1> ██▓▒­░⡷⠂🔗 🦜 extra Links ⚙️ 🔨 ⠐⢾░▒­▓██ </h1>
+ #  <h1>🔗 🦜 extra Links ⚙️ 🔨</h1>
  ----------------
-
- ![image_proxy](https://i.postimg.cc/kM8ZdK8s/gtl.png)
  
 # 0. 🔍 startpage (unlock sites)
 https://startpage.com
