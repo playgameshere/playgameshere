@@ -1,6 +1,6 @@
 # 🎮 CDJIEF Games + 🍎 custom server 
 
-![image_proxy](https://i.postimg.cc/1XRFz5d1/cdjieftown.png)
+<a href="https://linkdosite">![image_proxy](https://i.postimg.cc/1XRFz5d1/cdjieftown.png)</a>
 
 
 📌 
