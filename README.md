@@ -6,19 +6,12 @@
 📌 
 --------------
 
-<body>
- <h1><a href="https://0123jogos.webnode.com" rel="nofollow" target="_blank">🔗 https://is.gd/0town</a></h1>
- </body>
 
-📌 
---------------
-
-
-🇺🇸  (click at link above to play games + our custom server) 
+🇺🇸  (click at image above to play games + our custom server) 
 -
-🇵🇹  (clique no link acima para jogar jogos + o nosso server) 
+🇵🇹  (clique na imagem acima para jogar jogos + o nosso server) 
 -
-🇪🇸  (haga clic en nel enlance arriba para jugar juegos + nuestro server)
+🇪🇸  (haga clic en la imagene arriba para jugar juegos + nuestro server)
 -
 
 
