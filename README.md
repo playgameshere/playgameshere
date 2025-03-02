@@ -13,11 +13,11 @@ CDJIEF Games
 
 
 
-🇺🇸  (click at link above to play online games + our custom server) 
+🇺🇸  (click at link above to play games + our custom server) 
 -
-🇵🇹  (clique no link acima para jogar jogos online + o nosso server) 
+🇵🇹  (clique no link acima para jogar jogos + o nosso server) 
 -
-🇪🇸  (haga clic en nel enlance arriba para jugar juegos online + nuestro server)
+🇪🇸  (haga clic en nel enlance arriba para jugar juegos + nuestro server)
 -
 
 
