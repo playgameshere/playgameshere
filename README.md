@@ -1,6 +1,6 @@
 # 🎮 CDJIEF Games + 🍎 custom server 
 
-<a href="http://cdjief.ooguy.com:8090/">![image_proxy](https://i.postimg.cc/1XRFz5d1/cdjieftown.png)</a>
+<a href="https://cdjief.php1h.com/viewtopic.php?t=5956">![image_proxy](https://i.postimg.cc/1XRFz5d1/cdjieftown.png)</a>
 
 
 📌 
